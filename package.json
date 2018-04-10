@@ -1,6 +1,6 @@
 {
   "name": "component-certs-letsencrypt",
-  "version": "1.0.0-alpha1",
+  "version": "1.0.0-alpha2",
   "description": "A certificate management component that gets certs through Let's Encrypt",
   "main": "index.js",
   "scripts": {
